@@ -3,7 +3,7 @@ INFO
 
 Important info about building (only aimed to build recovery)
 ====
-DO NOT HESITATE TO CONTACT QUBEX22 at http://forum.xda-developers.com/member.php?u=4764337
+DO NOT HESITATE TO CONTACT ME at http://forum.xda-developers.com/member.php?u=4764337
 
 1: sync cm source (cm10.1)
 
