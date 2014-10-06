@@ -7,6 +7,7 @@ DO NOT HESITATE TO CONTACT ME at http://forum.xda-developers.com/member.php?u=47
 
 1: sync cm source  --> cm10x86 branch is more complete so sync cm10.1 using command:
 - repo init -u git://github.com/CyanogenMod/android.git -b cm-10.1
+- repo sync -f
 
 2: git clone repositories from https://github.com/lenovo-k900/
 
